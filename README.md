@@ -40,6 +40,10 @@ $$ u' = -z \sin a_p^2 + \left( -x \sin a_p^1 + y \cos a_p^1 \right) \cos a_p^2 \
 
 See more in book[1]
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/jolapodolszanska/3D-shepp-logan-phantom/main/SL%20image.png">
+</div>
+
 # References 
 [1] Robert Cierniak (2011), X-Ray Computed Tomography in Biomedical Engineering, Springer, ISBN: 9780857290267
 
